@@ -8,3 +8,5 @@ Download pssuspend and suspend_and_resume.bat
 make sure both in same directory
 
 double click uspend_and_resume.bat
+
+https://docs.microsoft.com/en-us/sysinternals/downloads/pssuspend
